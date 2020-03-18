@@ -1,2 +1,2 @@
-echo "export PATH=cinco/
-:dog/:hello/there:$PATH" > export
+echo 'export PATH="cinco/
+/dog:hello/there:$PATH"' > export
